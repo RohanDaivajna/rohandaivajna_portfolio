@@ -54,7 +54,7 @@ nav ul li a:hover {
 
 /* Style for the header */
 header {
-    background-image: url('images/profile.jpg'); /* Replace with your image path */
+    background-image: url('images/profile.png'); /* Replace with your image path */
     background-size: cover; /* Ensures the image covers the entire header */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents repeating the image */
